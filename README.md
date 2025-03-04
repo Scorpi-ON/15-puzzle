@@ -6,6 +6,7 @@
 [![code size](https://img.shields.io/github/languages/code-size/Scorpi-ON/15-puzzle.svg)](https://github.com/Scorpi-ON/15-puzzle)
 
 [![linters](https://github.com/Scorpi-ON/15-puzzle/actions/workflows/linters.yaml/badge.svg)](https://github.com/Scorpi-ON/15-puzzle/actions/workflows/linter.yaml)
+[![codeql](https://github.com/Scorpi-ON/15-puzzle/actions/workflows/codeql.yaml/badge.svg)](https://github.com/Scorpi-ON/15-puzzle/actions/workflows/codeql.yaml)
 [![deploy](https://github.com/Scorpi-ON/15-puzzle/actions/workflows/deploy.yaml/badge.svg)](https://github.com/Scorpi-ON/15-puzzle/actions/workflows/deploy.yaml)
 
 A project to learn the basics of React by creating a 15-puzzle game
