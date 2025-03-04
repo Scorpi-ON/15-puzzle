@@ -15,7 +15,7 @@ interface ThemeProviderState {
 }
 
 const initialState: ThemeProviderState = {
-    theme: "system",;
+    theme: "system",
     setTheme: () => null,
 };
 
